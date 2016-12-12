@@ -3,38 +3,28 @@ layout: page
 title: Terms of Service
 ---
 
-This privacy policy governs your use of the software application Interviewbud (“Application”) for mobile devices that was created by New School Old School, LLC. The Application allows you to practice for a job interviews, presenting sample job interview questions and storing your answer for each question.
 
-The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
+We (a.k.a. the folks at New School Old School, LLC, or the "Company") run an application called Interviewbud. The following terms and conditions (collectively, these "Terms of Service") apply to your use of the Interviewbud application (the "Application"). The Terms of Service also include our Privacy Policy, that you can review [here](/terms).
 
-When you register with us and use the Application, you generally provide your (a) email address; (b) transaction-related information, such as when you begin a round of Interviewbud or submit a question answer; and (c) information you provide us when you contact us for help.
+ Please read this Agreement carefully before accessing or using our Services. By accessing or using any part of our services, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access or use any of our services. If these terms and conditions are considered an offer by New School Old School LLC, acceptance is expressly limited to these terms.
 
-We may also use the information you provided us to contact you from time to time to provide you with important information, required notices and marketing promotions.
+Use of our Services may require an Interviewbud account. You agree to provide us with complete and accurate information when you register for an account. You will be solely responsible and liable for any activity that occurs under your login. You are responsible for keeping your login secure.
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
+### Interviewbud account
+If you create an account on Interviewbud to save your question answers, you are responsible for maintaining the security of your account, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the content. You must immediately notify New School Old School, LLC of any unauthorized uses of your content, your account, or any other breaches of security. New School Old School, LLC will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions.
 
-This Application does not collect precise information about the location of your mobile device.
 
-Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
+### Interviewbud content
 
-We may disclose User Provided and Automatically Collected Information:
+If you operate an Interviewbud account, post material to Interviewbud, or otherwise make (or allow any third party to make) material available (any such material, “Content”), you are entirely responsible for the content of, and any harm resulting from, that Content or your conduct. That is the case regardless of what form the Content takes, which includes, but is not limited to text, photo, video, audio, or code. By using Interviewbud, you represent and warrant that your Content and conduct does not contain the following:
 
-* as required by law, such as to comply with a subpoena, or similar legal process;
+* **Illegal content**
+* **Intellectual property infringement**
+* **Pornography**
+* **Technologically harmful content:** Please don’t upload or link to malware, spyware, adware, or other malicious or destructive code.
+* **Impersonation:** Don’t claim to be a person or organization you’re not. 
+* **Directly threatening material:** Do not post direct and realistic threats of violence. That is, you cannot post a genuine call for violence—or death—against an individual person, or groups of persons. This doesn’t mean that we’ll remove all hyperbole or offensive language.
 
-* when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 
-* with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+Bear in mind that these are just guidelines — interpretations are up to us. These guidelines are not exhaustive and are subject to change.
 
-* if New School Old School, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
-
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device.
-
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at info@interviewbud.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
-
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at info@interviewbud.com. We will delete such information from our files within a reasonable time.
-
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here (add link)
- 
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards. 
-
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at info@interviewbud.com.
