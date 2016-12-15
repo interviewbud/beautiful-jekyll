@@ -3,6 +3,7 @@ layout: page
 title: Terms of Service
 ---
 
+_Last updated: Dec 12, 2016_
 
 We (a.k.a. the folks at New School Old School, LLC, or the "Company") run an application called Interviewbud. The following terms and conditions (collectively, these "Terms of Service") apply to your use of the Interviewbud application (the "Application"). The Terms of Service also include our Privacy Policy, that you can review [here](/terms).
 

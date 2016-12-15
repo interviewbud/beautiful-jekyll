@@ -3,6 +3,8 @@ layout: page
 title: Privacy Policy
 ---
 
+_Last updated: Dec 12, 2016_
+
 This document is part of New School Old School LLC's [Terms of Service](/terms), and by using Inteviewbud (the “Application”), you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.
 
 ## Data Collected

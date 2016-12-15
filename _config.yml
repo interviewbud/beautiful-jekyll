@@ -37,11 +37,13 @@ avatar: "/img/interviewbud-logo.png"
 author:
   name: New School Old School, LLC
   email: "hello@interviewbud.com"
-  facebook: interviewbud  # eg. daattali
+  facebook: interviewbud
+  twitter: interviewbud
 
 # Select which links to show in the footer
 footer-links-active:
   facebook: true
+  twitter: true
   email: true
 
 
