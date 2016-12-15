@@ -42,7 +42,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  facebook: true
+  facebook: false
   twitter: true
   email: true
 
